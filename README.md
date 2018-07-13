@@ -2,6 +2,8 @@
 
 Advance record insertion to database with PHP (MVC), Jquery and material design
 
+DEMO URL: http://e-insureng.com/projects/
+
 Installation Instruction
 
 Download and extract files<br>
